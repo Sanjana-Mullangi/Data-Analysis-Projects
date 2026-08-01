@@ -1,8 +1,28 @@
 # Diamond Price Analysis
 
-This project analyzes the Diamonds dataset using Python, Pandas, NumPy and Matplotlib.
+## Objective
+Analyze how different features influence diamond prices.
 
-Files included:
+## Dataset
+diamonds.csv
 
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## Tasks Performed
+- Data Cleaning
+- Missing Value Handling
+- Outlier Detection
+- Correlation Analysis
+- Feature Analysis
+- Data Visualization
+
+## Files
 - Diamond_Price_Analysis.ipynb
 - diamonds.csv
+
+## Outcome
+Analyzed factors affecting diamond prices and generated meaningful business insights.
