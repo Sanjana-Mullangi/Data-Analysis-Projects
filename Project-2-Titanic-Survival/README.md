@@ -1,28 +1,3 @@
 # Titanic Survival Analysis
 
-## Objective
-Analyze the Titanic dataset and identify factors affecting passenger survival.
-
-## Dataset
-train.csv
-
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-
-## Tasks Performed
-- Data Cleaning
-- Missing Value Treatment
-- Duplicate Removal
-- Feature Analysis
-- Data Visualization
-- Exploratory Data Analysis
-
-## Files
-- Titanic_Data_Cleaning_Analysis.ipynb
-- train.csv
-
-## Outcome
-Explored passenger information and identified important factors influencing survival.
+This project focuses on analyzing the Titanic dataset to understand the factors that affected passenger survival. I used the **train.csv** dataset and performed data cleaning, handled missing values, removed duplicate records, and explored the dataset using Exploratory Data Analysis (EDA). Different visualizations were created using **Python, Pandas, NumPy, and Matplotlib** to better understand the relationships between passenger details and survival. Through this project, I learned how to preprocess real-world data, analyze important features, and gain insights from the Titanic dataset. The project files include **Titanic_Data_Cleaning_Analysis.ipynb** and **train.csv**.
