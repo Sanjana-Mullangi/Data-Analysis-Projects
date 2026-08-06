@@ -1,27 +1,3 @@
 # Wine Quality Exploratory Data Analysis
 
-## Objective
-Explore the factors affecting wine quality using statistical analysis and visualization.
-
-## Dataset
-wine_quality_merged.csv
-
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-
-## Tasks Performed
-- Descriptive Statistics
-- Correlation Analysis
-- Outlier Detection
-- Filtering and Sorting
-- Data Visualization
-
-## Files
-- Wine_Quality_Analysis.ipynb
-- wine_quality_merged.csv
-
-## Outcome
-Identified relationships between different wine properties and quality through EDA.
+This project focuses on exploring the Wine Quality dataset using Exploratory Data Analysis (EDA) to understand how different features influence the quality of wine. I used the wine_quality_merged.csv dataset and performed descriptive statistical analysis, correlation analysis, outlier detection, filtering, and sorting of the data. Various visualizations were created using **Python, Pandas, NumPy, and Matplotlib** to identify patterns and relationships between different wine properties. Through this project, I learned how to analyze a real-world dataset, interpret statistical results, and draw meaningful insights from the data. The project files include Wine_Quality_Analysis.ipynb and wine_quality_merged.csv.
