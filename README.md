@@ -1,51 +1,10 @@
 # Data Analysis Projects
 
-This repository contains five data analysis projects that I completed using Python in Google Colab.
-In these projects, I learned how to clean datasets, perform Exploratory Data Analysis (EDA), calculate statistics, and create different types of graphs to understand the data better.
+This repository contains five data analysis projects that I completed using **Python** in **Google Colab** as part of my learning and practice. In these projects, I worked with different real-world datasets to improve my understanding of data analysis and Exploratory Data Analysis (EDA). I learned how to clean datasets, handle missing values, remove duplicate records, calculate statistical measures, analyze relationships between features, and create different visualizations using **Pandas, NumPy, and Matplotlib**.
 
-## Tools Used
+The projects included in this repository are **Student Performance Analysis**, **Titanic Survival Analysis**, **Wine Quality Exploratory Data Analysis**, **Diamond Price Analysis**, and **Retail Sales Analysis**. Each project focuses on a different dataset and helped me understand how to analyze data, identify patterns, and generate useful insights through charts and statistical analysis.
 
-- Python
-- Google Colab
-- Pandas
-- NumPy
-- Matplotlib
-
-## Projects
-
-### Project 1: Student Performance Analysis
-- Analyzed student performance data.
-- Cleaned the dataset and created visualizations.
-
-### Project 2: Titanic Survival Analysis
-- Cleaned the Titanic dataset.
-- Analyzed factors affecting passenger survival.
-
-### Project 3: Wine Quality Exploratory Data Analysis
-- Explored the wine quality dataset.
-- Performed statistical analysis and correlation.
-- Created charts and identified outliers.
-
-### Project 4: Diamond Price Analysis
-- Analyzed the factors affecting diamond prices.
-- Performed data cleaning, outlier detection, and visualization.
-
-### Project 5: Retail Sales Analysis
-- Analyzed retail sales data.
-- Compared sales and profit across different regions and categories.
-- Created charts to understand sales performance.
-
-## Skills Learned
-
-- Data Cleaning
-- Handling Missing Values
-- Removing Duplicates
-- Descriptive Statistics
-- Correlation Analysis
-- Filtering and Sorting
-- GroupBy Operations
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+Through these projects, I improved my skills in data cleaning, descriptive statistics, correlation analysis, filtering and sorting, GroupBy operations, and data visualization. Working on these projects also gave me hands-on experience with Python libraries that are commonly used in data analysis.
 
 ## Repository Structure
 
@@ -59,6 +18,4 @@ Data-Analysis-Projects/
 └── README.md
 ```
 
-## About
-
-These projects were completed as part of my data analysis practice and helped me improve my Python, Pandas, NumPy, and data visualization skills.
+These projects were completed as part of my learning journey and helped me strengthen my practical knowledge of Python, data analysis, and Exploratory Data Analysis (EDA).
