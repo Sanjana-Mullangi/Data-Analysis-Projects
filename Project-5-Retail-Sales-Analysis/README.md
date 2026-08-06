@@ -1,28 +1,3 @@
 # Retail Sales Analysis Dashboard
 
-## Objective
-Analyze retail sales data and generate business insights.
-
-## Dataset
-Sample_Superstore.csv
-
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-
-## Tasks Performed
-- Data Cleaning
-- Sales Analysis
-- Profit Analysis
-- Region-wise Analysis
-- Category-wise Analysis
-- Data Visualization
-
-## Files
-- Retail_Sales_Analysis.ipynb
-- Sample_Superstore.csv
-
-## Outcome
-Performed retail sales analysis and provided business recommendations using visualizations.
+This project focuses on analyzing retail sales data to understand business performance and generate meaningful insights. I used the **Sample_Superstore.csv** dataset and performed data cleaning, sales analysis, profit analysis, region-wise analysis, and category-wise analysis using Exploratory Data Analysis (EDA). Different visualizations were created using **Python, Pandas, NumPy, and Matplotlib** to compare sales and profit across various regions and product categories. Through this project, I learned how to analyze retail business data, identify sales trends, and make simple data-driven recommendations based on the insights obtained. The project files include **Retail_Sales_Analysis.ipynb** and **Sample_Superstore.csv**.
