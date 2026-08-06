@@ -1,28 +1,3 @@
 # Student Performance Analysis
 
-## Objective
-Analyze student performance using Python and perform Exploratory Data Analysis (EDA).
-
-## Dataset
-StudentsPerformance.csv
-
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-
-## Tasks Performed
-- Data Import
-- Data Cleaning
-- Handling Missing Values
-- Descriptive Statistics
-- Data Visualization
-- Exploratory Data Analysis
-
-## Files
-- Student_Performance_Analysis.ipynb
-- StudentsPerformance.csv
-
-## Outcome
-Performed EDA to understand factors affecting student performance and generated useful visual insights.
+This project is about analyzing student performance using Python and Exploratory Data Analysis (EDA). I used the **StudentsPerformance.csv** dataset to understand the data by cleaning it, checking for missing values, calculating basic statistics, and creating different visualizations. I used Python along with Pandas, NumPy, and Matplotlib to perform the analysis. Through this project, I learned how to work with a real dataset, perform EDA, and understand the factors that may affect student performance. The project files include **Student_Performance_Analysis.ipynb** and **StudentsPerformance.csv**.
